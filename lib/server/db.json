@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": ".",
+      "password": ".",
+      "email": "rezone@gmail.com",
+      "imageUrl": "https://ath2.unileverservices.com/wp-content/uploads/sites/4/2020/02/IG-annvmariv-1024x1016.jpg"
+    },
+    {
+      "id": 2,
+      "username": "farnaz_mrt",
+      "password": "0000",
+      "email": "farnaz@gmail.com",
+      "imageUrl": "https://i.pinimg.com/originals/87/07/90/87079055b55e4dab8117f6d580ec92d5.jpg"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Main-girls-out-of-school.jpg?mtime=20170426205135",
+      "username": ".",
+      "password": "fff",
+      "email": "ffff"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Main-girls-out-of-school.jpg?mtime=20170426205135",
+      "username": "ff",
+      "password": "ffff",
+      "email": "ff"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Main-girls-out-of-school.jpg?mtime=20170426205135",
+      "username": "hh",
+      "password": "d",
+      "email": "d"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Main-girls-out-of-school.jpg?mtime=20170426205135",
+      "username": "ss",
+      "password": "ss",
+      "email": "ss"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://d2lo9qrcc42lm4.cloudfront.net/Images/News/_contentLarge/Main-girls-out-of-school.jpg?mtime=20170426205135",
+      "username": "s",
+      "password": "s",
+      "email": "s"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cat_1280p_0.jpg?itok=MFUV0a-t",
+      "caption": "bbbbbbbbbbbbbb",
+      "ownerId": 1,
+      "commentsId": [
+        4,
+        5,
+        9
+      ],
+      "likersId": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cat_1280p_0.jpg?itok=MFUV0a-t",
+      "caption": "kkkkkkkkkkkkkkkkkkkkkkk",
+      "ownerId": 1,
+      "commentsId": [
+        6,
+        7,
+        8
+      ],
+      "likersId": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "nlknlknl",
+      "ownerId": 1
+    },
+    {
+      "id": 2,
+      "comment": "saaa",
+      "ownerId": 1
+    },
+    {
+      "id": 3,
+      "comment": "dsdsdsd",
+      "ownerId": 1
+    },
+    {
+      "id": 4,
+      "comment": "hello ",
+      "ownerId": 1
+    },
+    {
+      "id": 5,
+      "comment": "wwww",
+      "ownerId": 1
+    },
+    {
+      "id": 6,
+      "comment": "yo",
+      "ownerId": 1
+    },
+    {
+      "id": 7,
+      "comment": "ihuygh",
+      "ownerId": 1
+    },
+    {
+      "id": 8,
+      "comment": "asdasdasd",
+      "ownerId": 1
+    },
+    {
+      "id": 9,
+      "comment": "gg",
+      "ownerId": 1
+    }
+  ]
+}
